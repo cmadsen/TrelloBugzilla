@@ -15,7 +15,7 @@ var bugzillaImgRed = '<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB
 // grey bugz icon
 var bugzillaImg = '<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAABGdBTUEAAK/INwWK6QAAAAFzUkd CAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAJiS0dEAP+Hj8y/AAAACXBIWXMAAABIAAAASABGyWs+AAABQUlEQVQoz32RzUoCcQDEf/9NMbwsbSu0glZq0N6CLTp5qEMG9Rweons9Qegj1AsE9gCFEV0Liq4dsg+LPBTadhB1g+lQUXRw5jCHGeYwY8RwWF/SSVSjvFKaV3VwcHib+ZMQ4mIlkKuiAi0rK1euanXxRcTuI/IUyFNBGyrIU05x/QSMMAKPgFfyXBMyicMlY9Smc/dgGVUiSAM25zyzyBvvzBBn6e6gDkaMyKFESJMsENHAJokNtOhgGe18pAmJ6BIB8MIVE0SAzRSWzF7shhZx3mgCcVI4nDJHl5AbLKPKUY8u4JOlQYNZCqTYZ4EHVjHthNNL4uMB0OWKPmvkOKHP5lM5A6oManVXvkpaV1G2ttRO/KwgYjKwLcgDDfKMszU61v/3RXA8SQvwOCPgr/39hRC1uq+CLJX1W/899XB8Ah4WmVffqvqqAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDEyLTEwLTE0VDE2OjQ3OjUwKzAyOjAw79+6cgAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxMi0wMi0wMlQwMDoyODoxOSswMTowMHxV1nwAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAAAAElFTkSuQmCC" />';
 
-var bugzillaLink = 'http://bugzilla.navicon.dk/show_bug.cgi?id=';
+var bugzillaLink = 'http://bugzilla.mozilla.com/show_bug.cgi?id=';
 
 var addBugzillaBadge = function() {
     $(".list-card-title").each(function(i,val){
