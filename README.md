@@ -1,7 +1,9 @@
 TrelloBugzilla
 ==============
 
-Trello Bugzilla Integration -  simplistic integration of Bugzilla into [Trello.com](http://trello.com) using [GreaseMonkey](https://addons.mozilla.org/da/firefox/addon/greasemonkey/) (GM)
+Trello Bugzilla Integration -  simplistic integration of [Bugzilla](http://www.bugzilla.org/) into [Trello.com](http://trello.com) using [GreaseMonkey](https://addons.mozilla.org/da/firefox/addon/greasemonkey/) (GM) <br />
+
+It will save alot of typing in case many of the Trello cards you create originates from bugzilla issues.
 
 ![Trello card with bugzilla badge](http://2.bp.blogspot.com/-kLmS1gyjZ7k/UH8iPRqralI/AAAAAAAAA3o/Wv9wNUegxyQ/s400/trello.png "Trello card with bugzilla badge")
 
