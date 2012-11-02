@@ -14,8 +14,11 @@ So far it supports:
 
 The script also works in Chrome with the [Tampermonkey](http://www.chromeextensions.org/appearance-functioning/tampermonkey/) extension installed.
 
+Installation
+===
+
 You have to edit the line
 
     var bugzillaLink = 'http://...';
     
-in the GM script to point at your own bugzilla installation.
+in the GM script to point at your own bugzilla installation before or after installing the script.
