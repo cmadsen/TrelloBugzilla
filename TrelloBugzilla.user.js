@@ -2,9 +2,9 @@
 // @name Trello Bugzilla Integration
 // @namespace http://www.navicon.dk/
 // @version 0.1
-// @require http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js
+// @require http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js
 // @description Looks for card titles with 'Bug \d+' and adds badge/links to bugzilla. Also autocompletes new card titles that starts with 'Bug \d+' from bugzilla. Autocomplete is actived when pressing spacebar after 'Bug \d+'.
-// @match https://trello.com/board/*
+// @match https://trello.com/b/*
 // @copyright 2012+, Carsten Madsen
 // ==/UserScript==
 
